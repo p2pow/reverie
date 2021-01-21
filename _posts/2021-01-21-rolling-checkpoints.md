@@ -6,7 +6,7 @@ categories: [Bitcoin]
 
 Rolling checkpoints is security theatre. It's all relative to where the node sits on the network graph. Chaos would ensue if there were was ever sustained contention at the fork tip, with nodes all over the world "locking" themselves to random checkpoints. Nodes won't trust the honest chain even after the honest chain overtakes the attacker's chain. 
 
-In addition, nodes that did not witness the chain divergence in real time (ie, caught up later) - no one can prove to them which is the 'honest' chain. New nodes will simply follow the longer (attacker's) chain. If the 'honest' chain eventually becomes longer... new nodes will still be on the attacker's chain.
+In addition, for nodes that did not witness the chain divergence in real time (ie, caught up later), it is not possible to prove to them which is the 'honest' chain. New nodes will simply follow the longer (attacker's) chain. If the 'honest' chain eventually becomes longer... new nodes will still be on the attacker's chain.
 
 Proof of social media would be required for everyone to "agree" on a valid "checkpoint", with all nodes having to manually roll back. The nodes would have to manually intervene and presumably issue rpc command invalidateblock prior to where it decided to checkpoint. Nakamoto consensus is supposed to be about trustless automation. The 10-block rolling checkpoint is just plain wrong.
 
