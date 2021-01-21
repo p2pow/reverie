@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transactions-need-fees
+title: Transactions need fees
 categories: [Bitcoin]
 ---
 
