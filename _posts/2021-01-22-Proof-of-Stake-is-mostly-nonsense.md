@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proof of Stake (PoS) is (mostly) nonsense
+title: Proof of Stake (PoS) is mostly nonsense
 categories: [Bitcoin]
 ---
 
