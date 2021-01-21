@@ -4,7 +4,7 @@ title:  ASIC resistance is nonsense
 categories: [Bitcoin]
 ---
 
-ASICs are inevitable and a good thing. ASIC-resistance is nonsense. GPU-mining does not favour the small player. Did you try buying a GPU back in 2017? They were non-existent. People chartered [Boeing 747s to fly around the world to scoop up GPUs](https://www.businessinsider.com/cryptocurrency-miners-rent-boeing-747s-2017-7?IR=T) Anyone close to the supply chain has the advantage.
+ASICs are inevitable and a good thing. ASIC-resistance is nonsense. GPU-mining does not favour the small player. Did you try buying a GPU back in 2017? They were non-existent. People chartered [Boeing 747s to fly around the world to scoop up GPUs](https://www.businessinsider.com/cryptocurrency-miners-rent-boeing-747s-2017-7?IR=T). Anyone close to the supply chain has the advantage.
 
 GPUs are built by two major manufacturers. SHA256d is simple and patent free. Greater opportunties for more manufacturers to enter the game. Asicboost was unfortunate, but manageable. There are less ways to cut corners and look for efficiencies in a simple mechanism. Greater chances to improve the supply chain.
 
