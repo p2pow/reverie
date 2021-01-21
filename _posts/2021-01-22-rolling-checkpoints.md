@@ -10,4 +10,6 @@ In addition, nodes that did not witness the chain divergence in real time (ie, c
 
 Proof of social media would be required for everyone to "agree" on a valid "checkpoint", with all nodes having to manually roll back. The nodes would have to manually intervene and presumably issue rpc command invalidateblock prior to where it decided to checkpoint. Nakamoto consensus is supposed to be about trustless automation. The 10-block rolling checkpoint is just plain wrong.
 
+Bitmex also had a blog post evaluating rolling checkpoints. They point out that if an attacker releases their 10-block secret chain immediately following a newly found (honest) block (which not all miners have yet seen).. some honest miners may see the attacker's chain as a 9-block reorg.. and thus accept (and checkpoint) it.
+
 BCH no longer follows the "longest proof-of-work chain as proof of what happened while they were gone". A coin using the same hash function as a larger coin simply has to accept the risk of being attacked (and defend it). This is a variation on Nakamoto consensus. The fact that BCH still exists means alternative PoW chains are seemingly possible, albeit with risks involved.
