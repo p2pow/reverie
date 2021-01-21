@@ -14,4 +14,4 @@ Secret ASIC optimisations on GPU-algorithms are also heavily CAPEX-focused. Ther
 
 How about memory-hard or other more complicated algorithms? Power consumption is relative. Once CAPEX costs come down (on the inevitabile ASICs).. electricity will eventually become the dominating metric for profitability again.
 
-Electricity is in abundance worldwide. Geography is not an issue for bitcoin. Simple/cheap POW ASICs (not encumbered by patents) offer the best model for acheiving high levels of security and decentralisation. The ecosystem around SHA256d and its supply chain has taken years to build and mature.
+Electricity is in abundance worldwide, much of it clean and stranded. Geography is not an issue for bitcoin. Simple/cheap PoW ASICs (not encumbered by patents) offer the best model for acheiving high levels of security and decentralisation. The ecosystem around SHA256d and its supply chain has taken years to build and mature.
