@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ASIC resistance is nonsense.md
+title:  ASIC resistance is nonsense
 categories: [Bitcoin]
 ---
 
