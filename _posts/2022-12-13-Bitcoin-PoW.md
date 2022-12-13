@@ -14,6 +14,8 @@ Fortunately, PoW allows for block header propagation via untrusted intermediarie
 
 Bitcoin's block headers are 80 bytes in size (640 bits). This equates to 1.066 bits per second (over 10 minutes). If miners temporarily only collected the block reward (no transactions), bandwidth requirements could be significantly reduced [2]. In theory, this might be as low as 2bps with a heavily optimised doomsday protocol. Such speeds could even be sent via morse code! The ionosphere is known to be able to bounce signals almost halfway around the world! Who needs Starlink?
 
+Only taking the block reward might be optimal under such chaotic conditions.. as you might find your block "orphaned" (dropped) if it includes too much data. Such behaviour might be self-imposed, not requiring any out-of-band communication (outside of Nakamoto Consensus).
+
 Granted, the above scenario might not work as well in a future where block rewards are much lower (relative to fees). Perhaps the telegraphers could even include a transaction or two? Still, food for thought.
 
 PoW FTW!
