@@ -18,5 +18,5 @@ There is a shortcut to lowering overheads costs.. miners could header-mine all 1
 
 TL;DR - Merged-mining increases centralisation. It is also a de facto block size increase on the main parent (as the miners now also have to validate all child chains). It poses a systemic risk to the parent chain.
 
-https://twitter.com/p2pow
-https://www.reddit.com/r/p2pow/
+[https://twitter.com/p2pow](https://twitter.com/p2pow)
+[https://www.reddit.com/r/p2pow/](https://www.reddit.com/r/p2pow/)
