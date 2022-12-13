@@ -16,7 +16,7 @@ Bitcoin's block headers are 80 bytes in size (640 bits). This equates to 1.066 b
 
 Only taking the block reward might actually be optimal under such chaotic conditions.. as you might find your block "orphaned" (dropped) if it includes too much data. Such behaviour might even be self-imposed, not requiring any out-of-band communication (e.g., outside of Nakamoto Consensus).
 
-Granted, the above scenario might not work as well in a future where block rewards are much lower (relative to fees). Perhaps the telegraphers could even include a transaction or two? Still, food for thought.
+Granted, the above scenario might not work as well in a future where block rewards are much lower (relative to fees). Perhaps the telegraphers could even include a high-fee transaction or two? Still, food for thought.
 
 PoW FTW!
 
