@@ -17,3 +17,6 @@ There are many other problems with merge-mining. Just because you are mining the
 There is a shortcut to lowering overheads costs.. miners could header-mine all 100 altcoins.. resulting in empty blocks for all. No requirement to maintain state or listen for transactions. Only listen for headers (e.g., Bitcoin's headers are only *1 bit* per second). Altcoins have no fees anyway. Miners can just collect the inflation (block reward).
 
 TL;DR - Merged-mining increases centralisation. It is also a de facto block size increase on the main parent (as the miners now also have to validate all child chains). It poses a systemic risk to the parent chain.
+
+https://twitter.com/p2pow
+https://www.reddit.com/r/p2pow/
