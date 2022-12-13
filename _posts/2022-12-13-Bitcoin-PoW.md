@@ -4,6 +4,7 @@ title:  Bitcoin/PoW can maintain consensus @ ~2bps
 categories: [Bitcoin]
 ---
 
+<a title="User Thomas H. White on en.wikipedia, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thesos.jpg"><img width="256" alt="Thesos" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Thesos.jpg"></a>
 
 Bitcoin/PoW can maintain consensus @ ~2bps. That's two BITs per second.
 
